@@ -1,0 +1,3 @@
+17-04-27 10:17:32.284 0 DEBUG [test\interviewTest.js] case 1 interview post result :{ result: 0 }
+17-04-27 10:20:06.064 0 DEBUG [test\interviewTest.js] interview get result:{ result: 1 }
+17-04-27 10:20:06.107 0 DEBUG [test\interviewTest.js] case 1 interview post result :{ result: 0 }

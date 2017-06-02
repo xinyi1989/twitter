@@ -1,0 +1,13 @@
+{
+  "dbConfig":{
+    "supportBigNumbers": "true",
+    "connectionLimit":20,
+    "host":"203.195.238.225",
+    "user":"root",
+    "password":"123456",
+    "database":"car2go_pay",
+    "port": 3306,
+    "characterEncoding": "utf-8"
+  },
+  "ApiKey":"sk_test_u5CGu98C0KSKOerb5Kf1mfvT"
+}

@@ -1,0 +1,84 @@
+{
+  "server_name": "TRADE",
+  "success": {
+    "code": 0,
+    "message": "OK"
+  },
+  "ParametersError": {
+    "code": 1000,
+    "message": "ParametersError"
+  },
+  "QuerySqlError": {
+    "code": 1001,
+    "message": "QuerySqlError"
+  },
+  "DbConnectError": {
+    "code": 1002,
+    "message": "DbConnectError"
+  },
+  "StartTransactionError": {
+    "code": 1003,
+    "message": "StartTransactionError"
+  },
+  "CallServiceError": {
+    "code": 1004,
+    "message": "CallServiceError"
+  },
+  "InternalError": {
+    "code": 1005,
+    "message": "InternalError"
+  },
+  "QuerySqlNullError": {
+    "code": 1006,
+    "message": "QuerySqlNullError"
+  },
+  "CommitTransactionError": {
+    "code": 1007,
+    "message": "CommitTransactionError"
+  },
+  "BalanceNotEnough": {
+    "code": 160001,
+    "message": "BalanceNotEnough"
+  },
+  "BalanceAccountError": {
+    "code": 160002,
+    "message": "BalanceAccountError"
+  },
+  "NonOpenidError": {
+    "code": 160003,
+    "message": "NonOpenidError"
+  },
+  "MoneyNotEnoughError": {
+    "code": 160004,
+    "message": "MoneyNotEnoughError"
+  },
+  "TradePasswordError": {
+    "code": 160005,
+    "message": "TradePasswordError"
+  },
+  "CreateTransfersError": {
+    "code": 160006,
+    "message": "CreateTransfersError"
+  },
+  "CreateChargesError": {
+    "code": 160007,
+    "message": "CreateChargesError"
+  },
+  "PingResultError": {
+    "code": 160008,
+    "message": "PingResultError"
+  },
+  "dtsSetApplyRecordError": {
+    "code": 160009,
+    "message": "dtsSetApplyRecordError"
+  },
+  "SignatureFail": {
+    "code": 160010,
+    "message": "SignatureFail"
+  },
+  "FreezeMoneyError": {
+    "code": 160011,
+    "message": "FreezeMoneyError"
+  }
+}
+
